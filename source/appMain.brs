@@ -2,12 +2,12 @@
 Sub Main()
 
     'CUSTOM DATA FOR THE SAMPLE APP. PUT YOUR INFO HERE
-    m.API_KEY = "h3NmQyOlBwAOPjk7UCTN5E9VqPJ3.jci3A"
-    m.SECRET = "B7yrpZdJeeVno0tzxcR8RDVag36ALokbpVuogk2W"
+    m.API_KEY = ""
+    m.SECRET = ""
     m.PREFIX = "" 'ONLY THE VIDEOS WITH THE SELECTED PREFIX WILL SHOW UP ON THE SCREEN
-    m.PCODE = "h3NmQyOlBwAOPjk7UCTN5E9VqPJ3"
+    m.PCODE = ""
     m.STREAM_FORMAT = "MP4" 'MP4 or TS for HLS
-    m.GA_UID = "UA-81404906-1"
+    m.GA_UID = ""
 
     'initialize theme attributes like titles, logos and overhang color
     initTheme()
